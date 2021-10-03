@@ -1,6 +1,7 @@
 ### Olá mundo! Eu sou a Emanuele
 
-- 🌱 Estudando Java
+- 🌱 Estudando Front-End -> HTML, CSS, Javascript
+- 🌱 Estudando Back-End -> Java, Spring Boot
  <div>
   <a href="https://github.com/EmanueleFons">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanueleFons&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
@@ -9,7 +10,11 @@
   <div style="display: inline_block"><br>
    <img align="center" alt="Emanu" height="30" width="40" src="https://img.icons8.com/ios/50/ffffff/java-coffee-cup-logo--v1.png"/>
    <img align="center" alt="Emanu" height="30" width="40" src="https://img.icons8.com/color/48/ffffff/spring-logo.png"/>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+   <img align="center" alt="Emanu" height="30" width="40"  src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+   <img  align="center" alt="Emanu" height="30" width="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+   <img  align="center" alt="Emanu" height="30" width="40" src="https://img.icons8.com/color/48/000000/css3.png"/>
+   
 </div>
   
  ##
