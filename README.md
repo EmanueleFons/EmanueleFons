@@ -8,8 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleFons&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   <div style="display: inline_block"><br>
-   <img align="center" alt="Emanu" height="30" width="40" src="https://img.icons8.com/ios/50/ffffff/java-coffee-cup-logo--v1.png"/>
-   <img align="center" alt="Emanu" height="30" width="40" src="https://img.icons8.com/color/48/ffffff/spring-logo.png"/>
+   <img align="center" alt="Emanu" height="30" width="40"  src="https://img.icons8.com/windows/32/000000/node-js.png"/>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
    <img align="center" alt="Emanu" height="30" width="40"  src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
    <img  align="center" alt="Emanu" height="30" width="40" src="https://img.icons8.com/color/48/000000/css3.png"/>
