@@ -1,7 +1,7 @@
 ### Olá mundo! Eu sou a Emanuele
 
-- 🌱 Estudando Front-End -> HTML, CSS, Javascript
-- 🌱 Estudando Back-End -> Node.js, Express
+- 🌱  Front-End -> HTML, CSS, Javascript, React
+
  <div>
   <a href="https://github.com/EmanueleFons">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanueleFons&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
