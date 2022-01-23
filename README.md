@@ -1,6 +1,6 @@
 ### Olá mundo! Eu sou a Emanuele
 
-- 🌱  Front-End -> HTML, CSS, Javascript, React
+- 🌱  Stack -> Python
 
  <div>
   <a href="https://github.com/EmanueleFons">
