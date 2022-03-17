@@ -1,6 +1,5 @@
 ### Olá mundo! Eu sou a Emanuele
 
-- 🌱  Stack -> Python
 
  <div>
   <a href="https://github.com/EmanueleFons">
