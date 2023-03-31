@@ -9,7 +9,7 @@ My expertise lies in SQL and Python. I am always looking to expand my knowledge 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [emanuele.fonseca161@gmail.com](mailto:emanuele.fonseca161@gmail.com)
 * 🚀  I'm currently working on [Data Analysis Projects](http://https://github.com/EmanueleFons/Game-Sales-Analysis)
-* 🧠  I'm learning Python, Pandas, Power BI, Seaborn, Plotly
+* 🧠  I'm learning Python, Pandas, Power BI
 
 ### Skills
 
